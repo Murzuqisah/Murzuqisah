@@ -1,7 +1,7 @@
 ### Hi there 👋 GITHUB Community
 
 
-**Murzuqisah is a ✨ _special_ ✨ repository because its my `README.md`.
+**Murzuqisah is a ✨ _special_ ✨ repository because it's my `README.md`.
 _It entails a few details about me as the owner of this Github `github` profile_
 
 Here are some ideas to get you started:
