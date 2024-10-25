@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hello 👋 GITHUB Community<br><br><br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on Go `go`, `JavaScript`, `Rust` and `TypeScript` projects.<br>- 🌱 I’m currently learning `Go` language.<br>- 👯 I’m looking forward to collaborating on `Machine Learning` & `Artificial Intelligence`, `Cybersecurity` and `Blockchain` related projects.<br>- 🤔 I’m looking for help in developing APIs.<br>- 💬 Ask me about Go...<br>- 📫 How to reach me: [mail@amosjoel91@gmail.com](mailto:amosjoel91@gmail.com) <br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm a geek who's always interested in deep learning & Anime/Manga.
+### Hello 👋 GITHUB Community<br><br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on `Go`, `JavaScript`, `Rust` and `TypeScript` projects.<br>- 🌱 I’m currently learning `Go` language.<br>- 👯 I’m looking forward to collaborating on `Machine Learning` & `Artificial Intelligence`, `Cybersecurity` and `Blockchain` related projects.<br>- 🤔 I’m looking for help in developing APIs.<br>- 💬 Ask me about Go...<br>- 📫 How to reach me: [mail@amosjoel91@gmail.com](mailto:amosjoel91@gmail.com) <br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm a geek who's always interested in deep learning & Anime/Manga.
 
 
 ## 🌐 Socials:
