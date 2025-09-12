@@ -1,25 +1,70 @@
-# 💫 About Me:
-### Hello 👋 GITHUB Community<br><br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on `Go`, `JavaScript`, `Rust` and `TypeScript` projects.<br>- 🌱 I’m currently learning `Go` language.<br>- 👯 I’m looking forward to collaborating on `Machine Learning` & `Artificial Intelligence`, `Cybersecurity` and `Blockchain` related projects.<br>- 🤔 I’m looking for help in developing APIs.<br>- 💬 Ask me about Go...<br>- 📫 How to reach me: [mail@amosjoel91@gmail.com](mailto:amosjoel91@gmail.com) <br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm a geek who's always interested in deep learning & Anime/Manga.
+# About Me
 
+Hello GitHub Community,  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niccolo_101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joel-amos) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Murzuqisah) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCDBKbXahwPks-VcSVomhLrg) 
+I’m a fullstack software engineer and IT student with a strong focus on **Go**, **Rust**, **JavaScript**, and **TypeScript**.  
+My interests revolve around **Cybersecurity**, **Machine Learning**, **Artificial Intelligence**, and **Blockchain**.  
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Murzuqisah&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Murzuqisah&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Murzuqisah&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Murzuqisah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Currently building projects with Go, Rust, JavaScript, and TypeScript.  
+- Continuously learning and experimenting with new technologies.  
+- Open to collaborations in ML/AI, Cybersecurity, and Blockchain.  
+- Interested in building scalable APIs and real-time applications.  
+- Reach me at: [mail@amosjoel91@gmail.com](mailto:amosjoel91@gmail.com)  
+- Pronouns: He/Him  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Murzuqisah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+[LinkedIn](https://linkedin.com/in/joel-amos) • [X](https://x.com/Murzuqisah) • [Instagram](https://instagram.com/niccolo_101) • [YouTube](https://youtube.com/@UCDBKbXahwPks-VcSVomhLrg)
+
+---
+
+## 💻 Tech Stack
+
+### Core Languages
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### Web & Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Backend & Databases
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murzuqisah&show_icons=true&theme=default&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Murzuqisah&theme=default&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murzuqisah&layout=compact&theme=default&hide_border=true)
+
+---
+
+## ✍️ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+
+## Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=Murzuqisah&color=0e75b6&style=flat)
+
+---
