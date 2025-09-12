@@ -1,20 +1,21 @@
-# About Me
+## About Me
 
-Hello GitHub Community,  
+<h4>👋 Hello GitHub Community</h4> 
 
-I’m a fullstack software engineer and IT technician with a strong focus on **Go**, **Rust**, **JavaScript**, **PHP** and **TypeScript**.  
+I'm Joel Adero, a fullstack software developer and IT technician with a strong focus on **Go**, **Rust**, **JavaScript**, **PHP** and **TypeScript**.  
 My interests revolve around **Cybersecurity**, **ML & AI**, and **Blockchain**.  
 
-- 🔭 Currently working on **Passa**, a Stellar-based ticketing platform(will be out soon).  
-- 🌱 Continuously learning and experimenting with new technologies and frameworks like **Laravel** and **Django** and interested in building scalable **API**s and real-time, secure applications.
-- 👯 Currently building projects with **Go**, **JavaScript**, and **Node**.
-- 🤝 Open to collaborations in **ML/AI**, **Cybersecurity** and **Blockchain-related projects**  
+- 🔭 Currently working on **Passa**, a Stellar-based ticketing platform (will be out soon).  
+- 🌱 Continuously learning and experimenting with new technologies and frameworks like **Laravel** and **Django**, and interested in building scalable **APIs** and real-time, secure applications.  
+- 👯 Currently building projects with **Go**, **JavaScript**, and **Node**.  
+- 🤝 Open to collaborations in **ML/AI**, **Cybersecurity**, and **Blockchain-related projects**.  
 - 👨‍💻 Portfolio: [joel-portfolio-joel-amos.vercel.app](https://joel-portfolio-joel-amos.vercel.app)  
 - 📝 I write on [dev.to/joel_amos](https://dev.to/joel_amos)  
 - 💬 Ask me about **TypeScript, Go & PHP**  
-- 📫 Reach me at: [mail@amosjoel91@gmail.com](mailto:amosjoel91@gmail.com).  
-- ⚡ Fun fact: I love **Anime & Manga** 
-- Pronouns: **He/Him** 
+- 📫 Reach me at: [amosjoel91@gmail.com](mailto:amosjoel91@gmail.com)  
+- ⚡ Fun fact: I love **Anime & Manga**  
+- 🧬 Pronouns: **He/Him**  
+
 ---
 
 ## 🌐 Socials
@@ -67,7 +68,7 @@ My interests revolve around **Cybersecurity**, **ML & AI**, and **Blockchain**.
 
 ---
 
-## Visitor Count
+## 👀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Murzuqisah&color=0e75b6&style=flat)
 
 ---
