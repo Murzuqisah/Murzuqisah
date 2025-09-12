@@ -2,13 +2,13 @@
 
 Hello GitHub Community,  
 
-I’m a fullstack software engineer and IT student with a strong focus on **Go**, **Rust**, **JavaScript**, and **TypeScript**.  
-My interests revolve around **Cybersecurity**, **Machine Learning**, **Artificial Intelligence**, and **Blockchain**.  
+I’m a fullstack software engineer and IT technician with a strong focus on **Go**, **Rust**, **JavaScript**, **PHP** and **TypeScript**.  
+My interests revolve around **Cybersecurity**, **ML & AI**, and **Blockchain**.  
 
-- Currently building projects with Go, Rust, JavaScript, and TypeScript.  
+- Currently building projects with Go, JavaScript, and Node.  
 - Continuously learning and experimenting with new technologies.  
-- Open to collaborations in ML/AI, Cybersecurity, and Blockchain.  
-- Interested in building scalable APIs and real-time applications.  
+- Open to collaborations in ML/AI, Cybersecurity, and Blockchain-related projects.  
+- Interested in building scalable APIs and real-time, secure applications.  
 - Reach me at: [mail@amosjoel91@gmail.com](mailto:amosjoel91@gmail.com)  
 - Pronouns: He/Him  
 
@@ -53,14 +53,14 @@ My interests revolve around **Cybersecurity**, **Machine Learning**, **Artificia
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murzuqisah&show_icons=true&theme=default&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Murzuqisah&theme=default&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murzuqisah&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murzuqisah&show_icons=true&theme=dark&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Murzuqisah&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murzuqisah&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
