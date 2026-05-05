@@ -9,7 +9,7 @@ My interests revolve around **Cybersecurity**, **ML & AI**, and **Blockchain**.
 - 🌱 Continuously learning and experimenting with new technologies and frameworks like **Laravel** and **Django**, and interested in building scalable **APIs** and real-time, secure applications.  
 - 👯 Currently building projects with **Go**, **JavaScript**, and **Node**.  
 - 🤝 Open to collaborations in **ML/AI**, **Cybersecurity**, and **Blockchain-related projects**.  
-- 👨‍💻 Portfolio: [Portfolio](https://joel-amos.vercel.app)  
+- 👨‍💻 Portfolio: [Portfolio](https://joel-adero.vercel.app)  
 - 📝 I write on [Dev.To](https://dev.to/joel_amos)  
 - 💬 Ask me about **TypeScript, Go & PHP**  
 - 📫 Reach me at: [E-mail](mailto:amosjoel91@gmail.com)  
